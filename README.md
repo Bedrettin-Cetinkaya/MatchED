@@ -20,7 +20,7 @@ Use our training and testing txt files.
 #### BSDS:
 
 Download BSDS data from [here](https://drive.google.com/drive/folders/16W1yK8LpbJNin5C8_HLTt_w5pz25kLOs?usp=sharing)
-
+Download BSDS gt .mat files from [here](https://drive.google.com/file/d/1DFHDpVMc32qBAIRn6o4QCqg5RupV2D3x/view?usp=sharing)
 Put these files into data/BSDS/.
 
 Extract these files via tar zxvf filename.tar.gz
