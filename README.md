@@ -39,8 +39,6 @@ python main.py --model pidinet --config carv4 --sa --dil --iter-size 24 -j 4 --g
 ```
 
 ### 2.2 BSDS:
-
-#### For Only Ranking:
 -Change max_toleration and weight (in Lines 189 and 190 )  [https://github.com/Bedrettin-Cetinkaya/MatchED/blob/main/utils.py#L182)
         
 -Run the following command to start training.
