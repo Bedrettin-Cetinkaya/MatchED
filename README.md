@@ -1,4 +1,4 @@
-# MatchED: MatchED: Crisp Edge Detection Using End-to-End, Matching-based Supervision ( CVPR 2026)
+# MatchED: Crisp Edge Detection Using End-to-End, Matching-based Supervision ( CVPR 2026)
 
 ## 1. Install Environment, Datasets
 ### 1.1 Environment
