@@ -7,11 +7,10 @@ Please follow this repository to set the environment: https://github.com/hellozh
 ### 1.2 Datasets
 #### NYUD:
 
-Download NYUD data from [EDTER](https://github.com/MengyangPu/EDTER) Repository:
+Download NYUD data:
 
--Download [Train Data](https://drive.google.com/drive/folders/1lTfTIS-vlTtId-LGhEO2ZZjonA3SmLGJ)
+-Download [All Data](https://drive.google.com/file/d/1BcLhrYtCuGeeGd1JwV7VNvy0BFND5mMD/view?usp=sharing)
 
--Download [Test Data](https://drive.google.com/drive/folders/1TQpKzCV4Ujkfs4V_vMasKAcvg3p4ByCN)
 
 Put these files into data/NYUD/.
 
